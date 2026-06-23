@@ -10,7 +10,7 @@ I enjoy building real-world projects, solving problems with data, and continuous
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills  
 
 - Python
 - NumPy
